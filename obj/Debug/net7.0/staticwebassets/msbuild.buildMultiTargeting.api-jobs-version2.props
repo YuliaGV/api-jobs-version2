@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\api-jobs-version2.props" />
+</Project>
